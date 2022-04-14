@@ -1,6 +1,6 @@
 ## Coding Assignment
 
-This is an assignment written in Typescript and implemented using [Node.js](https://nodejs.org/en/) Express, [Mongodb](https://www.mongodb.com/) using Mongoose as ORM, [Redis] for caching.
+This is an assignment written in Typescript and implemented using [Node.js](https://nodejs.org/en/) Express, [Mongodb](https://www.mongodb.com/) using Mongoose as ORM, [Redis](https://redis.io/) for caching.
 
 The requirnment is providing a RESTful services for storing CSV data and have a way to query the data out as JSON format.
 
